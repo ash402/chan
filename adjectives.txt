@@ -23,3 +23,7 @@ Aztec
 Etruscan
 Catalan
 Welsh
+Norwegian
+Laplandish
+Kenyan
+Libyan

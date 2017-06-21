@@ -13,3 +13,6 @@ Microbrewery
 Fraternity
 Gymnasium
 Library
+Personal Army
+Tech Support
+Consumer Electronics Reviewer
